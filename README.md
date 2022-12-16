@@ -2,8 +2,8 @@
 
 currently working as a DevOps architect
 
-- 👀 I’m interested in Python, DevOps, Programming
-- 🌱 I’m currently learning Django...
+- 👀 I’m interested in Python, DevOps, Programming, CI/CD, automation
+- 🌱 I’m currently learning Django, Javascript...
 
 <!---
 - 💞️ I’m looking to collaborate on ...
